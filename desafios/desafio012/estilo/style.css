@@ -29,7 +29,7 @@ header {
 
 header > h1 {
   padding-top: 50px;
-  font-variant: small-caps;
+  font-variant: small-caps;/*Caixa alta com as primeiras maiores*/
   font-family: var(--fonte2);
   font-size: 10vw;/*valor em % referente a view port(tela)*/
 }
